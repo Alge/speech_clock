@@ -1,5 +1,5 @@
 from os import path, makedirs
-from speech_watch import join_audio
+from audio_joiner import join_audio
 
 
 #Folder containing the recorded files (0-59 etc)
